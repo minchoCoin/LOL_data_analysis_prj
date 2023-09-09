@@ -6,7 +6,7 @@
 "Kills","doubleKills","tripleKill","quadraKill","pentaKill","minionKill","monsterKill",'dragons','opp_dragons','elementaldrakes','opp_elementaldrakes','elders','opp_elders','heralds','opp_heralds','barons','opp_barons','towers','opp_towers','turretplates','opp_turretplates','inhibitors','opp_inhibitors' 과의 관계
 
 # Requirements
- - Python 3.x,Jupyter Notebook,Pandas, Numpy, Matplotlib, Scipy, Seaborn, Scikit-learn
+ - Python 3.x,Jupyter Notebook,Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
 # How to run
  - run jupyter notebook and load esportsDataAnalysis.ipynb and run code in order
@@ -18,6 +18,9 @@
  - 2023 match data
 
 # reference
+ - Do it! 쉽게 배우는 파이썬 데이터 분석, 김영우 저, 이지스 퍼블리싱
+ - 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어
+ - https://seaborn.pydata.org/
  - https://blog.naver.com/PostView.naver?blogId=kiddwannabe&logNo=222655678945&categoryNo=0&parentCategoryNo=0&currentPage=1
  - https://mindscale.kr/course/python-visualization-basic/grid/
  - https://blog.naver.com/PostView.naver?blogId=kiddwannabe&logNo=222655678945&categoryNo=0&parentCategoryNo=0&currentPage=1
