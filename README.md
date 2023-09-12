@@ -10,6 +10,7 @@
 
 # How to run
  - run jupyter notebook and load esportsDataAnalysis.ipynb and run code in order
+ - or visiting https://minchocoin-lol-data-analysis.streamlit.app/
 
 # data origin
 - https://oracleselixir.com/stats/champions/explorer
