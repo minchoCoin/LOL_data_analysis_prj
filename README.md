@@ -4,7 +4,7 @@
  - 챔피언별 firstblood률과 승률과의 관계
  - 승률과
 "Kills","doubleKills","tripleKill","quadraKill","pentaKill","minionKill","monsterKill",'dragons','opp_dragons','elementaldrakes','opp_elementaldrakes','elders','opp_elders','heralds','opp_heralds','barons','opp_barons','towers','opp_towers','turretplates','opp_turretplates','inhibitors','opp_inhibitors' 과의 관계
-
+ - 승리하기 위해서는 어떤 것을 처음에 먼저 해야할까? 분석
 # Requirements
  - Python 3.x,Jupyter Notebook,Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
